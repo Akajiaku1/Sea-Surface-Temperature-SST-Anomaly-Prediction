@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+seaborn
+netCDF4
+xarray
+tensorflow
+keras
+scikit-learn
+h5py
